@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "topthink/think-orm": "^1.2"
+    }
+}
